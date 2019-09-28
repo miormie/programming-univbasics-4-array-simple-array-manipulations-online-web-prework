@@ -32,8 +32,8 @@ array.concat(array2)
   
 end
 
-def using_insert(array)
-array.insert[4];
+def using_insert(array, element)
+array.insert[3];
   
 end
 
