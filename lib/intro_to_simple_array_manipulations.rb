@@ -33,7 +33,7 @@ array.concat(array2)
 end
 
 def using_insert(array, element)
-array.insert(element)
+array.insert(3, element)
   
 end
 
