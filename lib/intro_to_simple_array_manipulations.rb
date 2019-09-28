@@ -31,12 +31,12 @@ end
 
 
 def using_concat(array)
- # array.concat
+#array.concat([])
   
 end
 
 def using_insert(array)
- # array.insert[4];
+array.insert[4];
   
 end
 
