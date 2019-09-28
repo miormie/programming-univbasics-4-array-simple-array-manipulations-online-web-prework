@@ -31,7 +31,7 @@ end
 
 
 def using_concat(array)
-#array.concat([])
+#array.concat()
   
 end
 
